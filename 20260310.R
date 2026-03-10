@@ -28,3 +28,5 @@ usethis::use_git()
 
 #Amanda teste
 2+2-1
+
+usethis::use_git()
